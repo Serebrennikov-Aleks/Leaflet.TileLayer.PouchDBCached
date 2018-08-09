@@ -1,4 +1,4 @@
-
+import PouchDB from 'pouchdb';
 
 L.TileLayer.addInitHook(function() {
 
